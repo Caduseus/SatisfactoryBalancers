@@ -1,17 +1,17 @@
-Satisfactory Belt Balancer Collection
+Satisfactory Compact Belt Balancer Collection (no mods)
 
 
-This collection includes following INPUTxOUTPUT belt balancers:
-3x3
-6x6
-9x9
-12x12
-18x18
-27x27
-36x36
-54x54
+This collection includes following INPUTxOUTPUT belt balancers (Width, Height, Length in Splitters):
+- 3x3    (W1, H3, L3)
+- 6x6    (W1, H6, L4)
+- 9x9    (W1, H9, L4)
+- 12x12  (W2, H6, L6)
+- 18x18  (W2, H9, L6)
+- 27x27  (W3, H9, L6)
+- 36x36  (W4, H6, L8)
+- 54x54  (W6, H9, L8)
 
-Every setup is perfectly balanced, as all things should be. All inputs lead equally to all outputs.
+Everything is made in vanilla Satisfactory without any mods or 3rd party tools. All inputs lead equally to all outputs, so every setup is perfectly balanced, as all things should be.
 
 Yellow is input side, green is output side. Middle parts use whatever color you have in the customizer color "FICSIT Factory Swatch".
 
