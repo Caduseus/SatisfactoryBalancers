@@ -1,5 +1,6 @@
 Satisfactory Compact Belt Balancer Collection (no mods)
 
+Pictures of balancers: https://photos.app.goo.gl/RwxRaNC3jd82GCq37
 
 This collection includes following INPUTxOUTPUT belt balancers (Width, Height, Length in Splitters):
 - 3x3    (W1, H3, L3)
@@ -8,7 +9,7 @@ This collection includes following INPUTxOUTPUT belt balancers (Width, Height, L
 - 12x12  (W2, H6, L6)
 - 18x18  (W2, H9, L6)
 - 27x27  (W3, H9, L6)
-- 36x36  (W4, H6, L8)
+- 36x36  (W4, H9, L8)
 - 54x54  (W6, H9, L8)
 
 Everything is made in vanilla Satisfactory without any mods or 3rd party tools. All inputs lead equally to all outputs, so every setup is perfectly balanced, as all things should be.
