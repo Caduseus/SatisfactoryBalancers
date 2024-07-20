@@ -1,6 +1,7 @@
 Satisfactory Compact Belt Balancer Collection (no mods)
 
 Pictures of balancers: https://photos.app.goo.gl/RwxRaNC3jd82GCq37
+Blueprints folder: %localappdata%\FactoryGame\Saved\SaveGames\blueprints
 
 This collection includes following INPUTxOUTPUT belt balancers (Width, Height, Length in Splitters):
 - 3x3    (W1, H3, L3)
@@ -23,9 +24,7 @@ There is also an Extender for 54x54 balancer, if you wish to make a 108x108 setu
 4. Hook the left Balancer's outputs to turquoise ports in both Extenders.
 5. Green ports become the 108x108 Balancer outputs.
 
-Blueprints folder: %localappdata%\FactoryGame\Saved\SaveGames\blueprints
-
-You need to have Blueprint tech researched to use these blueprints in a save. Otherwise your save is not listed in the folder.
+You need to have Blueprint tech researched to use these blueprints in a save. Otherwise your save is not listed in the Blueprints folder.
 
 Tier 1-4 belt blueprints for 3x3, 6x6 and 9x9 balancers are coming in a later version.
 
