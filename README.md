@@ -1,4 +1,4 @@
-Satisfactory Compact Belt Balancer Collection (no mods)
+Satisfactory Compact Belt Balancer Blueprint Collection (no mods)
 
 Pictures of balancers: https://photos.app.goo.gl/RwxRaNC3jd82GCq37
 
