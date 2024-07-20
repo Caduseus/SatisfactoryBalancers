@@ -2,6 +2,8 @@ Satisfactory Compact Belt Balancer Collection (no mods)
 
 Pictures of balancers: https://photos.app.goo.gl/RwxRaNC3jd82GCq37
 
+Click the zip file in above list and then click the "Raw" button to download it.
+
 Blueprints folder: %localappdata%\FactoryGame\Saved\SaveGames\blueprints
 
 This collection includes following INPUTxOUTPUT belt balancers (Width, Height, Length in Splitters):
