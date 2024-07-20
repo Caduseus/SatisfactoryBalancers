@@ -7,14 +7,14 @@ Click the zip file in above list and then click the "Raw" button to download it.
 Blueprints folder: %localappdata%\FactoryGame\Saved\SaveGames\blueprints
 
 This collection includes following INPUTxOUTPUT belt balancers (Width, Height, Length in Splitters):
-- 3x3    (W1, H3, L3)
-- 6x6    (W1, H6, L4)
-- 9x9    (W1, H9, L4)
-- 12x12  (W2, H6, L6)
-- 18x18  (W2, H9, L6)
-- 27x27  (W3, H9, L6)
-- 36x36  (W4, H9, L8)
-- 54x54  (W6, H9, L8)
+- 3x3    (W3, H3, L3)
+- 6x6    (W3, H6, L4)
+- 9x9    (W3, H9, L4)
+- 12x12  (W4, H6, L6)
+- 18x18  (W4, H9, L6)
+- 27x27  (W5, H9, L6)
+- 36x36  (W6, H9, L8)
+- 54x54  (W8, H9, L8)
 
 Everything is made in vanilla Satisfactory without any mods or 3rd party tools. All inputs lead equally to all outputs, so every setup is perfectly balanced, as all things should be.
 
