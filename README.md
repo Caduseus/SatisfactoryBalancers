@@ -22,8 +22,6 @@ There is also an Extender for 54x54 balancer, if you wish to make a 108x108 setu
 4. Hook the left Balancer's outputs to turquoise ports in both Extenders.
 5. Green ports become the 108x108 Balancer outputs.
 
-You could even keep on chaining Balancers for ever larger setups. To make a 216x216 balancer you need four more Extenders in front of two 108 Balancers, hooking right 108 Balancer's ports to all four Extenders' yellow ports and left 108 Balancer's ports to all torquoise ports.
-
 Blueprints folder: %localappdata%\FactoryGame\Saved\SaveGames\blueprints
 
 You need to have Blueprint tech researched to use these blueprints in a save. Otherwise your save is not listed in the folder.
